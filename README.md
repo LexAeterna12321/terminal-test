@@ -6,3 +6,5 @@ terminal TEST
 another testing msg
 
 third one.
+
+And the last one.
