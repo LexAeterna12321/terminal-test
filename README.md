@@ -4,3 +4,5 @@ Some terminal commands tests
 terminal TEST
 
 another testing msg
+
+third one.
